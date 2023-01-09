@@ -149,7 +149,7 @@
 	.three{
 		background-color: blue;
 	}
-	p{.     padding: 15px;
+	p{      padding: 15px;
 		margin-top: -10px;
 	}
 }
