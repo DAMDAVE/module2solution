@@ -11,7 +11,7 @@
 		background-color: lightblue;
 		margin:  10px;
 		padding:  20px -10px 20px 20px;
-		font-family: cursive;
+		font-family: helvetica;
 	}
    .splits{
    	position: relative;
@@ -32,7 +32,7 @@
 		text-align: center;
 		position: relative;
 		border: solid 1px black;
-		font-family: cursive;
+		font-family: helvetica;
 		padding: 20px ;
 	}
 	.one{
@@ -62,7 +62,7 @@
 		background-color: lightblue;
 		margin:  10px;
 		padding:  20px -10px 20px 20px;
-		font-family: cursive;
+		font-family: helvetica;
 	}
    .splits{
    	position: relative;
@@ -83,7 +83,7 @@
 		text-align: center;
 		position: relative;
 		border: solid 1px black;
-		font-family: cursive;
+		font-family: helvetica;
 		padding: 20px ;
 	}
 	.one{
@@ -116,7 +116,7 @@
 		background-color: lightblue;
 		margin:  10px;
 		padding:  20px -10px 20px 20px;
-		font-family: cursive;
+		font-family: helvetica;
 	}
    .splits{
    	position: relative;
@@ -137,7 +137,7 @@
 		text-align: center;
 		position: relative;
 		border: solid 1px black;
-		font-family: cursive;
+		font-family: helvetica;
 		padding: 20px ;
 	}
 	.one{
