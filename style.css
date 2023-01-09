@@ -1,0 +1,157 @@
+@media (min-width:992px) {
+   *{
+   	box-sizing: border-box;
+   }
+   h1{  
+   	    font-size: 175%;
+		text-align: center;
+	}
+	.desktop{
+		border: solid 1px black;
+		background-color: lightblue;
+		margin:  10px;
+		padding:  20px -10px 20px 20px;
+		font-family: cursive;
+	}
+   .splits{
+   	position: relative;
+   	width: 33%;
+		float: left;
+
+	}
+	.top-rights{
+		font-size: 125%;
+		text-align: center;
+		position: relative;
+		top: -8px;
+		left: 70.5%;
+		width: 30%;
+		
+	}
+	.bee{
+		text-align: center;
+		position: relative;
+		border: solid 1px black;
+		font-family: cursive;
+		padding: 20px ;
+	}
+	.one{
+		background-color: red;
+	}
+	.two{
+		background-color: yellow;
+	}
+	.three{
+		background-color: blue;
+	}
+	p{
+		margin-top: -10px;
+
+	}
+}
+@media (min-width:768px) and (max-width: 991px) {
+   *{
+   	box-sizing: border-box;
+   }
+   h1{  
+   	    font-size: 175%;
+		text-align: center;
+	}
+	.tablet{
+		border: solid 1px black;
+		background-color: lightblue;
+		margin:  10px;
+		padding:  20px -10px 20px 20px;
+		font-family: cursive;
+	}
+   .splits{
+   	position: relative;
+   	width: 50%;
+		float: left;
+
+	}
+	.top-rights{
+		font-size: 125%;
+		text-align: center;
+		position: relative;
+		top: -8px;
+		left: 70.5%;
+		width: 30%;
+		
+	}
+	.bee{
+		text-align: center;
+		position: relative;
+		border: solid 1px black;
+		font-family: cursive;
+		padding: 20px ;
+	}
+	.one{
+		background-color: red;
+	}
+	.two{
+		background-color: yellow;
+	}
+	.three{
+		background-color: blue;
+	}
+	.third{
+		width: 100%;
+	}
+	p{
+		margin-top: -10px;
+
+	}
+}
+@media (max-width: 767px) {
+   *{
+   	box-sizing: border-box;
+   }
+   h1{  
+   	    font-size: 175%;
+		text-align: center;
+	}
+	.mobile {
+		border: solid 1px black;
+		background-color: lightblue;
+		margin:  10px;
+		padding:  20px -10px 20px 20px;
+		font-family: cursive;
+	}
+   .splits{
+   	position: relative;
+   	width: 100%;
+		float: left;
+
+	}
+	.top-rights{
+		font-size: 125%;
+		text-align: center;
+		position: relative;
+		top: -8px;
+		left: 70.5%;
+		width: 30%;
+		
+	}
+	.bee{
+		text-align: center;
+		position: relative;
+		border: solid 1px black;
+		font-family: cursive;
+		padding: 20px ;
+	}
+	.one{
+		background-color: red;
+	}
+	.two{
+		background-color: yellow;
+	}
+	.three{
+		background-color: blue;
+	}
+	p{
+		margin-top: -10px;
+	}
+}
+
+
